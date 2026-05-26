@@ -1,6 +1,6 @@
 # Weather Forecast Report Generator
 
-An automated Python pipeline that was built through Anthropic claude ai fetches 3-day weather forecast data 
+An automated Python pipeline that fetches 3-day weather forecast data 
 from the NAM (North American Mesoscale) numerical weather model, 
 generates a formatted PDF report, and delivers it by email.
 
